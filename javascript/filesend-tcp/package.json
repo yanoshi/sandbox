@@ -1,0 +1,11 @@
+{
+  "name": "simple-tcp",
+  "version": "1.0.0",
+  "description": "Node.jsでTCP/IPを使ってファイルを要求し、送ってもらう",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "yanoshi",
+  "license": "MIT"
+}
